@@ -12,7 +12,7 @@ from saleor.product.models import (
     Attribute,
     AttributeValue,
     Category,
-    Collection,
+    Collection2,
     Product,
     ProductImage,
     ProductType,
